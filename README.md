@@ -1,32 +1,17 @@
-
-
 Hi, I'm Krishna 👋
-
-Learning Math, Computer Science & AI from Zero → Mastery
-
 Welcome to my GitHub!
-
-This is where I document my journey by building projects, writing code, and sharing what I learn.
+This is where I document my journey by building projects  and sharing what I learn.
 
 Currently Learning
+- AI & Automation
+- Business & Enterprenuership
 
-- Python
-- Mathematics for AI
-- Computer Science Fundamentals
-- Machine Learning
-- Deep Learning
 
 Here You'll Find
+My Project , notes & expirements
 
-- AI Projects
-- Python Projects
-- Learning Notes
-- Algorithms & Data Structures
-- Open Source Contributions
-
-Mission
-
-Learn deeply.
-Build consistently.
-Share openly.
-Create technology that solves real-world problems.
+My Mission
+- Learn deeply.
+- Build consistently.
+- Share openly.
+- Create technology that solves real-world problems.
