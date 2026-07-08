@@ -4,6 +4,9 @@ This is where I document my journey by building projects  and sharing what I lea
 
 Currently Learning
 - AI & Automation
+- AI Agent
+- python 
+- Mathmatics 
 - Business & Enterprenuership
 
 
