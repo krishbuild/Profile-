@@ -1,20 +1,26 @@
-Hi, I'm Krishna 👋
-Welcome to my GitHub!
-This is where I document my journey by building projects  and sharing what I learn.
+# Hi, I'm Krishna 👋
+I'm currently learning Artificial Intelligence, AI Automation, Python, and Software Development while documenting my journey in public.
+## 🎯 Current Focus on learning
+- 🤖 AI Tools
+- ⚡ AI Automation
+- 🧠 AI Agents
+- 🐍 Python
+- 🌐 APIs
+- 🔧 Git & GitHub
+- 💼 Business & Entrepreneurship
+- 🚀 Building Real Projects
 
-Currently Learning
-- AI & Automation
-- AI Agent
-- python 
-- Mathmatics 
-- Business & Enterprenuership
+## 📂 What You'll Find Here
 
+- AI Automation Projects
+- Python Projects
+- AI Agents
+- APIs
+- Learning Notes
+- Open Source Contributions
+- Project Documentation
 
-Here You'll Find
-My Project , notes & expirements
+## 📈 Philosophy
 
-My Mission
-- Learn deeply.
-- Build consistently.
-- Share openly.
-- Create technology that solves real-world problems.
+Learn. Build. Document. Share. Repeat.
+
