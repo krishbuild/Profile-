@@ -1,13 +1,20 @@
 # Hi, I'm Krishna 👋
-I'm currently learning & building in AI , Automation & business.
 
-## 📂 What You'll Find Here
+🎓 Mathematics Student | 🇮🇳 India  
+🤖 Learning AI &  Computer Science 
+🚀 Building projects and documenting my journey towards becoming a Deep-Tech Founder
 
-- AI & Automation Projects
-- Learning Notes
-- Open Source Contributions
 
-## 📈 Philosophy
+## 🎯 Long-Term Vision
 
-Learn. Build. Document. Share. Repeat.
+Build global deep-tech companies using AI and advanced technologies.
+
+
+## 🌐 Connect
+LinkedIn: www.linkedin.com/in/krishbuild  
+X: https://x.com/KrishBuildX 
+Website: Coming Soon
+
+
+> Learn deeply. Build consistently. Share publicly.
 
