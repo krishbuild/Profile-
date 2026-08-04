@@ -1,16 +1,21 @@
 # Hi, I'm Krishna 👋
-
-🎓 Mathematics Student | 🇮🇳 India  
-🤖 Learning AI Engineering  & Business 
-🚀 Building projects and documenting my journey towards becoming AI Founder
-
-# Current focus
-Devlop strong foundation in computer science ,math , saas engneering & AI
+Currently learning 
+• Python 
+• CS 
+• Artificial Intelligence 
+• Machine Learning 
+• Mathematics 
+• Business ---------------------------------- 
+Current Goals 
+✓ Build projects every month 
+✓ Contribute to Open Source 
+✓ Learn in Public 
+✓ Document Everything 
 
 ## 🌐 Connect
 LinkedIn: www.linkedin.com/in/krishbuild  
 X: https://x.com/KrishBuildX 
+Youtube :- https://www.youtube.com/@KrishbuildX
+Email :- krishnasinghbiz@gmial.com
 
-# philosophy
-> Learn deeply. Build consistently. Share publicly.
 
