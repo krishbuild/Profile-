@@ -1,21 +1,18 @@
-# Hi, I'm Krishna 👋
-Currently learning 
-• Python 
-• CS 
-• Artificial Intelligence 
-• Machine Learning 
-• Mathematics 
-• Business ---------------------------------- 
-Current Goals 
-✓ Build projects every month 
-✓ Contribute to Open Source 
-✓ Learn in Public 
-✓ Document Everything 
-
+# Hi, I'm Krishna           
+BSc Mathematics student exploring the intersection of 
+Mathematics × AI × Business × Deep Technology. 
+Currently:-    
+Learning AI & Machine Learning 
+Building mathematical foundations 
+Exploring deep-tech 
+Turning what I learn into projects 
+## Current Focus 
+AI 
+Mathematics 
+Software Engineering 
+Deep Technology 
 ## 🌐 Connect
-LinkedIn: www.linkedin.com/in/krishbuild  
 X: https://x.com/KrishBuildX 
-Youtube :- https://www.youtube.com/@KrishbuildX
 Email :- krishnasinghbiz@gmial.com
 
 
