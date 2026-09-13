@@ -1,5 +1,5 @@
 # Hi, I'm Krishna           
-BSc Mathematics student exploring the intersection of 
+ exploring the intersection of 
 Mathematics × AI × Business × Deep Technology. 
 Currently:-    
 Learning AI & Machine Learning 
